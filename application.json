@@ -1,0 +1,49 @@
+{
+  "pages": [
+    {
+      "id": "Books-Employee",
+      "isDefault": false
+    },
+    {
+      "id": "Author Search",
+      "isDefault": true
+    },
+    {
+      "id": "Profile",
+      "isDefault": false
+    },
+    {
+      "id": "Books",
+      "isDefault": false
+    },
+    {
+      "id": "Specific Book",
+      "isDefault": false
+    },
+    {
+      "id": "Order",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "unpublishedApplicationDetail": {
+    "appPositioning": {
+      "type": "FIXED"
+    }
+  },
+  "color": "#F3F1C7",
+  "icon": "globe",
+  "unpublishedCustomJSLibs": [
+    {
+      "uidString": "xmlParser_https://cdnjs.cloudflare.com/ajax/libs/fast-xml-parser/3.17.5/parser.min.js"
+    }
+  ],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "isManualUpdate": false,
+  "deleted": false
+}
